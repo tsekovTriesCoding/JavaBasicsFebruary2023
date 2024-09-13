@@ -1,3 +1,5 @@
-# Java-Basics-February-2023
-Repository with different basic problems(conditional statements,for loop,while loop,etc.) for Java,from Softuni.
-<img src="Programming Basics - February 2023 - Certificate.jpeg">
+<h2 align="center">Java-Basics-February-2023 Certificate</h2>
+<div id="header" align="center">
+  <img src="Programming Basics - February 2023 - Certificate.jpeg" width = 60%>
+</div> 
+
